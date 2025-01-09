@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/VirtualArtGallery/static/js/main.ab8718c2.js",
+    "index.html": "/VirtualArtGallery/index.html",
+    "main.ab8718c2.js.map": "/VirtualArtGallery/static/js/main.ab8718c2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ab8718c2.js"
+  ]
+}
